@@ -1,5 +1,5 @@
 # cs465-fullstack
-CS-465 Full Stack Development with MEAN
+
 Express HTML for frontend development seemed very straightforward, which makes sense since I have an HTML background. The JavaScript involved was new to me, but still seemed to make a lot of sense and was well worth it in the finished product, since JavaScript adds a lot of good functionality for a webpage. The single-page application reminded me a lot of developing mobile apps, with all the functions of the application built into a single, highly reactive screen. The MongoDB database is also something I worked with before, and Mongo is a good choice for its compatibility with the other components of the MEAN stack. 
 
 JSON is JavaScript Object Notation, and it's a JavaScript-friendly way to package data with a key:information format. Thanks to this, the website is able to quickly and easily move information around without the user needing to know a lot about the backend. A big factor in this project was modularity, which includes reusing code. There were several points, such as making the partials folder for the Express frontend, or making components for the SPA, where the full stack process was leveraged to improve the quality of the code, leading to efficiency for the user and future developers.
